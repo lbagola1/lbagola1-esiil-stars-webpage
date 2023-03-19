@@ -15,6 +15,6 @@
   
   <p> My Name is LaShell Bagola I am Oglala Lakota from the Pine Ridge Indian Reservation located in South Dakota. <br>
   <p> I am currently a senior at Oglala Lakota College and will graduate next Spring 2024 with a BS in Natural Science with an emphasis in Conservation Biology. <br>
-  <p> My hobbies include beading and sewing traditional regalia. I taught myself how to do both. I also enjoy reading books, hiking, camping, fishing, cooking, working out, gardening, painting/drawing, walking my dogs. <br>
-  <p> I have two pit bulls one named Princess and the other named Mr. Sppoky Tuxedo Burrito Wojapito (a rescue from Denver Colorado), they are new parents to 3 little puppies. <br>
+  <p> My hobbies include beading and sewing traditional regalia. I taught myself how to do both. I also enjoy reading books, hiking, camping, fishing, cooking, working out, gardening, painting/drawing, walking my dogs. Anything that means being active or being in nature. <br>
+  <p> I have two pit bulls one named Princess and the other named Mr. Sppoky Tuxedo Burrito (a rescue from Denver Colorado), they are new parents to 3 little puppies. <br>
    <p>
