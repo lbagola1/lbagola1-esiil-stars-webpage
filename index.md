@@ -20,5 +20,6 @@
   <p> My passions include clean water, clean air, the land, animals, health, my family, and traditional teachings. <br>
   <p> I have two pit bulls one named Princess and the other named Mr. Sppoky Tuxedo Burrito (a rescue from Denver Colorado), they are new parents to 3 little puppies. <br>
   <p> My partner and I are expecting our second daughter the end of May/early June. I take pride in and prioritize my family and culture above all else.
+    
 
-> I am happy to be returning this summer to continue my skillset in coding, github, working as an active team member, and learning as well as mentoring.
+<h5> I am happy to be returning this summer to continue my skillset in coding, github, working as an active team member, and learning as well as mentoring. </h5>
