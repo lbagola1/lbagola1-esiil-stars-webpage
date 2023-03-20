@@ -22,4 +22,4 @@
   <p> My partner and I are expecting our second daughter the end of May/early June. I take pride in and prioritize my family and culture above all else.
     
 
-<h5> I am happy to be returning this summer to continue my skillset in coding, github, working as an active team member, and learning as well as mentoring. </h5>
+<h5> I am happy to be returning this summer to continue my skillset in coding, github, working as an active team member, and learning as well as mentoring. I'm excited to see what projects come about and how I can be involved. </h5>
