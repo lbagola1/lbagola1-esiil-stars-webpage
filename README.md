@@ -1,2 +1,2 @@
 # lbagola1-esiil-stars-webpage
-LaShell Bagola's ESIIL Stars Webpage_assignment_wanji
+LaShell Bagola's ESIIL Stars Webpage
