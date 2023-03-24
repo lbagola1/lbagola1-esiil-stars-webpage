@@ -1,9 +1,7 @@
 
 ## LASHELL (POOR BEAR)BAGOLA
 
-![headshot](https://user-images.githubusercontent.com/105870644/226205128-a49d4631-2167-455f-afcf-e619df230a4b.jpg)
-
-<img alt-text="LaShell Bagola" src="img/headshot_esc.png" width="25%" />
+<img alt-text="LaShell Bagola" src="img/105870644/226205128-a49d4631-2167-455f-afcf-e619df230a4b.jpg" width="25%" />
 
 > <h5> Socials: </h5>
 > <ul>
