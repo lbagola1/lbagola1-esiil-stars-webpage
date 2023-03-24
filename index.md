@@ -4,15 +4,13 @@
 <img alt-text="LaShell Bagola"
      src="![headshot](https://user-images.githubusercontent.com/105870644/227647150-1bed9786-30b3-471a-a7a2-efeafd091637.jpg)" width="25%" />
 
-> <h5> Socials: </h5>
-> <ul>
-> <li> lbagola23302@olc.edu </li>
-> <li> https://github.com/lbagola1 </li>
-> <li> https://www.linkedin.com/in/lashell-bagola-5025031a1/ </li>
-  </ul>
+> ##### Socials:
+> 
+> - lbagola23302@olc.edu </li>
+> - https://github.com/lbagola1 </li>
+> - https://www.linkedin.com/in/lashell-bagola-5025031a1/
 
-<h5> Senior at Oglala Lakota College;
-  Conservation Biology major </h5>
+##### Senior at Oglala Lakota College; Conservation Biology Major
   
   My Name is LaShell (Poor Bear)Bagola I am Oglala Lakota from the Pine Ridge Indian Reservation located in South Dakota.
   I am currently a senior at Oglala Lakota College and will graduate next Spring 2024 with a BS in Natural Science with an emphasis in Conservation Biology.
@@ -23,4 +21,4 @@
   My partner and I are expecting our second daughter the end of May/early June. I take pride in and prioritize my family and culture above all else.
     
 
-<h5> I am happy to be returning this summer to continue my skillset in coding, github, working as an active team member, and learning as well as mentoring. I'm excited to see what projects come about and how I can be involved. </h5>
+##### I'm happy to be returning this summer to continue my skillset in coding, github, working as an active team member, and learning as well as mentoring. I'm excited to see what projects come about and how I can be involved.
